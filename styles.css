@@ -12,5 +12,7 @@ body{
 .player_two{
 	background-color:white;
 	padding:10px;
-	border-radius:5px
+	position:absolute;
+	left:25%;
+	border-radius:5px;
 }
